@@ -2,6 +2,6 @@
 para copiar o código HTML
 ```
 <html>
-<h1> meu primeiro arquivo em HTML </h1>
+  <h1> meu primeiro arquivo em HTML </h1>
 </html>
 ```
